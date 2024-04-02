@@ -1,0 +1,24 @@
+{
+    "promosi": [
+        {
+            "id":1,
+            "url": "https://auto2000.co.id/promosi/_next/image?url=https%3A%2F%2Fastradigitaldigiroomprd.blob.core.windows.net%2Fstorage-prd-001%2F20240221T100819376ZThumbPromoPage_240213.webp&w=1920&q=75"
+        },
+        {
+            "id":2,
+            "url": "https://auto2000.co.id/promosi/_next/image?url=https%3A%2F%2Fastradigitaldigiroomprd.blob.core.windows.net%2Fstorage-prd-001%2F20240221T100921925ZThumbnail.webp&w=1920&q=75"
+        },
+        {
+            "id":3,
+            "url": "https://auto2000.co.id/promosi/_next/image?url=https%3A%2F%2Fastradigitaldigiroomprd.blob.core.windows.net%2Fstorage-prd-001%2F20240314T092412248ZThumbnail%252014.webp&w=1920&q=75"
+        },
+        {
+            "id":4,
+            "url": "https://auto2000.co.id/promosi/_next/image?url=https%3A%2F%2Fastradigitaldigiroomprd.blob.core.windows.net%2Fstorage-prd-001%2F20240313T093940101ZThumbnail%252011.webp&w=1920&q=75"
+        },
+        {
+            "id":5,
+            "url": "https://auto2000.co.id/promosi/_next/image?url=https%3A%2F%2Fastradigitaldigiroomprd.blob.core.windows.net%2Fstorage-prd-001%2F20240313T092546682ZThumbnail%252010.webp&w=1920&q=75"
+        }
+      ]
+  }
