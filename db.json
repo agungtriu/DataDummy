@@ -20,8 +20,8 @@
             "id":5,
             "image": "https://auto2000.co.id/promosi/_next/image?url=https%3A%2F%2Fastradigitaldigiroomprd.blob.core.windows.net%2Fstorage-prd-001%2F20240313T092546682ZThumbnail%252010.webp&w=1920&q=75"
         }
-      ],
-      "categories":[
+    ],
+    "categories":[
         {
             "id":1,
             "image": "https://imgresizerappprod.azurewebsites.net/api/resizer/70x70/png/https://tsoimageprod.azureedge.net/sys-master-hybrismedia/h92/h5b/8861142220830",
@@ -149,7 +149,7 @@
             "title": "AGYA",
             "price": 167900000,
             "discount":null,
-            "flag": "rekomendasi",
+            "flag": "rekomendasi"
         },
         {
             "id":7,
@@ -167,8 +167,8 @@
             "discount":null,
             "flag":null
         }
-      ],
-      "accessories" : [
+    ],
+    "accessories" : [
         {
             "id":1,
             "image": "https://tsoimageprod.azureedge.net/sys-master-hybrismedia/h40/hf3/8862555209758/Avanza_Kupon-Cek-Up_MT_231222.jpg",
@@ -204,82 +204,82 @@
             "price": 39000,
             "discount": 35100
         }
-      ],
-      "videos":[
+    ],
+    "videos":[
         {
             "id":1,
             "url": "Y2pNepMTWMM",
-            "description": "Transaksi mobil jadi lebih mudah dengan Auto2000 Digiroom! | Tanya Auto",
-          },
-          {
+            "description": "Transaksi mobil jadi lebih mudah dengan Auto2000 Digiroom! | Tanya Auto"
+        },
+        {
             "id":2,
             "url": "KXCHS44--E0",
-            "description": "New Corolla Altis: performa hingga teknologi mobil Toyota terbaru! | Tanya Auto",
-          },
-          {
+            "description": "New Corolla Altis: performa hingga teknologi mobil Toyota terbaru! | Tanya Auto"
+        },
+        {
             "id":3,
             "url": "hJxLYi3pajU",
-            "description":"Semakin Elegan dengan Desain & Fitur Baru! Spesifikasi dan Harga Toyota Voxy terbaru I Tanya Auto",
-          }
-      ],
-      "promotions":[
+            "description":"Semakin Elegan dengan Desain & Fitur Baru! Spesifikasi dan Harga Toyota Voxy terbaru I Tanya Auto"
+        }
+    ],
+    "promotions":[
         {
             "id":1,
             "image":"https://imgresizerappprod.azurewebsites.net/api/resizer/250x126/png/https://tsoimageprod.azureedge.net/sys-master-hybrismedia/hc3/he6/8869552455710/Thumbnail%20(2).jpg",
             "title": "Cicilan Ringan untuk Mobil Baru Toyota",
-            "description":"Hai AutoFamily!<br><br><br><br>Yuk dibawa santai hari-hari AutoFamily bersama Auto2000 Digiroom, karena sekarang mobil impian sudah bisa dimiliki dengan program Cicilan Ringan mulai dari Rp 4 Jutaan/Bulan.<br><br>Ini dia beberapa model yang bisa di bawa pulang dengan Cicilan Ringan:<br><br>Toyota Agya Cicilan mulai dari Rp 4.1 Jtan/Bulan<br><br>Toyota Calya Cicilan mulai dari Rp 4.1 Jtan/Bulan<br><br>Toyota Avanza Cicilan mulai dari Rp 4,4 Jtan/Bulan <br><br>Toyota Raize Cicilan mulai dari Rp 4,2 Jtan/Bulan<br><br>Toyota Rush Cicilan mulai dari Rp 6 Jtan/Bulan <br><br>Toyota Veloz Cicilan mulai dari Rp 4,9 Jtan/Bulan<br><br>Toyota Innova Cicilan mulai dari Rp 9.8 Jtan/Bulan<br><br><br><br>Dapatkan juga perawatan mobil menyeluruh dengan Free biaya Jasa Servis dan Suku Cadang selama 3 tahun atau 60.000 KM dan Extended Warranty untuk setiap On Time Service untuk tipe mobil tertentu. <br><br>Kamu juga berkesempatan memenangkan 400 Paket Perjalanan ke Eropa, Umroh ke tanah suci, Vietnam & Labuanbajo di program PILIH AUTO2000. Jangan lupa untuk isi formulir di bawah ini untuk dapatkan penawarannya sekarang!<br><br>Tunggu apa lagi? Isi formulir di bawah untuk dapatkan penawarannya sekarang!<br><br><br><br>Urusan Toyota lebih mudah dengan Auto2000 Digiroom<br><br>*Syarat & Ketentuan Berlaku<br><br>*Cicilan terlampir adalah untuk OTR DKI Jakarta dan untuk wilayah lain akan berbeda.",
-          },
-          {
+            "description":"Hai AutoFamily!<br><br><br><br>Yuk dibawa santai hari-hari AutoFamily bersama Auto2000 Digiroom, karena sekarang mobil impian sudah bisa dimiliki dengan program Cicilan Ringan mulai dari Rp 4 Jutaan/Bulan.<br><br>Ini dia beberapa model yang bisa di bawa pulang dengan Cicilan Ringan:<br><br>Toyota Agya Cicilan mulai dari Rp 4.1 Jtan/Bulan<br><br>Toyota Calya Cicilan mulai dari Rp 4.1 Jtan/Bulan<br><br>Toyota Avanza Cicilan mulai dari Rp 4,4 Jtan/Bulan <br><br>Toyota Raize Cicilan mulai dari Rp 4,2 Jtan/Bulan<br><br>Toyota Rush Cicilan mulai dari Rp 6 Jtan/Bulan <br><br>Toyota Veloz Cicilan mulai dari Rp 4,9 Jtan/Bulan<br><br>Toyota Innova Cicilan mulai dari Rp 9.8 Jtan/Bulan<br><br><br><br>Dapatkan juga perawatan mobil menyeluruh dengan Free biaya Jasa Servis dan Suku Cadang selama 3 tahun atau 60.000 KM dan Extended Warranty untuk setiap On Time Service untuk tipe mobil tertentu. <br><br>Kamu juga berkesempatan memenangkan 400 Paket Perjalanan ke Eropa, Umroh ke tanah suci, Vietnam & Labuanbajo di program PILIH AUTO2000. Jangan lupa untuk isi formulir di bawah ini untuk dapatkan penawarannya sekarang!<br><br>Tunggu apa lagi? Isi formulir di bawah untuk dapatkan penawarannya sekarang!<br><br><br><br>Urusan Toyota lebih mudah dengan Auto2000 Digiroom<br><br>*Syarat & Ketentuan Berlaku<br><br>*Cicilan terlampir adalah untuk OTR DKI Jakarta dan untuk wilayah lain akan berbeda."
+        },
+        {
             "id":2,
             "image":"https://imgresizerappprod.azurewebsites.net/api/resizer/250x126/png/https://tsoimageprod.azureedge.net/sys-master-hybrismedia/h5c/h76/8869553635358/Thumbnail%20(3).jpg",
             "title": "Cicilan Ringan Mobil Innova Zenix",
-            "description":"Hai AutoFamily!<br><br><br><br>Yuk dibawa santai hari-hari AutoFamily bersama Auto2000 Digiroom, karena sekarang mobil impian sudah bisa dimiliki dengan program Cicilan Ringan mulai dari Rp 4 Jutaan/Bulan.<br><br>Ini dia beberapa model yang bisa di bawa pulang dengan Cicilan Ringan:<br><br>Toyota Agya Cicilan mulai dari Rp 4.1 Jtan/Bulan<br><br>Toyota Calya Cicilan mulai dari Rp 4.1 Jtan/Bulan<br><br>Toyota Avanza Cicilan mulai dari Rp 4,4 Jtan/Bulan <br><br>Toyota Raize Cicilan mulai dari Rp 4,2 Jtan/Bulan<br><br>Toyota Rush Cicilan mulai dari Rp 6 Jtan/Bulan <br><br>Toyota Veloz Cicilan mulai dari Rp 4,9 Jtan/Bulan<br><br>Toyota Innova Cicilan mulai dari Rp 9.8 Jtan/Bulan<br><br><br><br>Dapatkan juga perawatan mobil menyeluruh dengan Free biaya Jasa Servis dan Suku Cadang selama 3 tahun atau 60.000 KM dan Extended Warranty untuk setiap On Time Service untuk tipe mobil tertentu. <br><br>Kamu juga berkesempatan memenangkan 400 Paket Perjalanan ke Eropa, Umroh ke tanah suci, Vietnam & Labuanbajo di program PILIH AUTO2000. Jangan lupa untuk isi formulir di bawah ini untuk dapatkan penawarannya sekarang!<br><br>Tunggu apa lagi? Isi formulir di bawah untuk dapatkan penawarannya sekarang!<br><br><br><br>Urusan Toyota lebih mudah dengan Auto2000 Digiroom<br><br>*Syarat & Ketentuan Berlaku<br><br>*Cicilan terlampir adalah untuk OTR DKI Jakarta dan untuk wilayah lain akan berbeda.",
-          },
-          {
+            "description":"Hai AutoFamily!<br><br><br><br>Yuk dibawa santai hari-hari AutoFamily bersama Auto2000 Digiroom, karena sekarang mobil impian sudah bisa dimiliki dengan program Cicilan Ringan mulai dari Rp 4 Jutaan/Bulan.<br><br>Ini dia beberapa model yang bisa di bawa pulang dengan Cicilan Ringan:<br><br>Toyota Agya Cicilan mulai dari Rp 4.1 Jtan/Bulan<br><br>Toyota Calya Cicilan mulai dari Rp 4.1 Jtan/Bulan<br><br>Toyota Avanza Cicilan mulai dari Rp 4,4 Jtan/Bulan <br><br>Toyota Raize Cicilan mulai dari Rp 4,2 Jtan/Bulan<br><br>Toyota Rush Cicilan mulai dari Rp 6 Jtan/Bulan <br><br>Toyota Veloz Cicilan mulai dari Rp 4,9 Jtan/Bulan<br><br>Toyota Innova Cicilan mulai dari Rp 9.8 Jtan/Bulan<br><br><br><br>Dapatkan juga perawatan mobil menyeluruh dengan Free biaya Jasa Servis dan Suku Cadang selama 3 tahun atau 60.000 KM dan Extended Warranty untuk setiap On Time Service untuk tipe mobil tertentu. <br><br>Kamu juga berkesempatan memenangkan 400 Paket Perjalanan ke Eropa, Umroh ke tanah suci, Vietnam & Labuanbajo di program PILIH AUTO2000. Jangan lupa untuk isi formulir di bawah ini untuk dapatkan penawarannya sekarang!<br><br>Tunggu apa lagi? Isi formulir di bawah untuk dapatkan penawarannya sekarang!<br><br><br><br>Urusan Toyota lebih mudah dengan Auto2000 Digiroom<br><br>*Syarat & Ketentuan Berlaku<br><br>*Cicilan terlampir adalah untuk OTR DKI Jakarta dan untuk wilayah lain akan berbeda."
+        },
+        {
             "id":3,
             "image":"https://imgresizerappprod.azurewebsites.net/api/resizer/250x126/png/https://tsoimageprod.azureedge.net/sys-master-hybrismedia/h92/h74/8871055556638/Thumbnail%20(8).jpg",
             "title": "Promo Pilih Yaris Cross Ramadhan Auto2000",
-            "description":"Hai AutoFamily!<br><br><br><br>Yuk dibawa santai hari-hari AutoFamily bersama Auto2000 Digiroom, karena sekarang mobil impian sudah bisa dimiliki dengan program Cicilan Ringan mulai dari Rp 4 Jutaan/Bulan.<br><br>Ini dia beberapa model yang bisa di bawa pulang dengan Cicilan Ringan:<br><br>Toyota Agya Cicilan mulai dari Rp 4.1 Jtan/Bulan<br><br>Toyota Calya Cicilan mulai dari Rp 4.1 Jtan/Bulan<br><br>Toyota Avanza Cicilan mulai dari Rp 4,4 Jtan/Bulan <br><br>Toyota Raize Cicilan mulai dari Rp 4,2 Jtan/Bulan<br><br>Toyota Rush Cicilan mulai dari Rp 6 Jtan/Bulan <br><br>Toyota Veloz Cicilan mulai dari Rp 4,9 Jtan/Bulan<br><br>Toyota Innova Cicilan mulai dari Rp 9.8 Jtan/Bulan<br><br><br><br>Dapatkan juga perawatan mobil menyeluruh dengan Free biaya Jasa Servis dan Suku Cadang selama 3 tahun atau 60.000 KM dan Extended Warranty untuk setiap On Time Service untuk tipe mobil tertentu. <br><br>Kamu juga berkesempatan memenangkan 400 Paket Perjalanan ke Eropa, Umroh ke tanah suci, Vietnam & Labuanbajo di program PILIH AUTO2000. Jangan lupa untuk isi formulir di bawah ini untuk dapatkan penawarannya sekarang!<br><br>Tunggu apa lagi? Isi formulir di bawah untuk dapatkan penawarannya sekarang!<br><br><br><br>Urusan Toyota lebih mudah dengan Auto2000 Digiroom<br><br>*Syarat & Ketentuan Berlaku<br><br>*Cicilan terlampir adalah untuk OTR DKI Jakarta dan untuk wilayah lain akan berbeda.",
-          }
-      ],
-      "branches": [
+            "description":"Hai AutoFamily!<br><br><br><br>Yuk dibawa santai hari-hari AutoFamily bersama Auto2000 Digiroom, karena sekarang mobil impian sudah bisa dimiliki dengan program Cicilan Ringan mulai dari Rp 4 Jutaan/Bulan.<br><br>Ini dia beberapa model yang bisa di bawa pulang dengan Cicilan Ringan:<br><br>Toyota Agya Cicilan mulai dari Rp 4.1 Jtan/Bulan<br><br>Toyota Calya Cicilan mulai dari Rp 4.1 Jtan/Bulan<br><br>Toyota Avanza Cicilan mulai dari Rp 4,4 Jtan/Bulan <br><br>Toyota Raize Cicilan mulai dari Rp 4,2 Jtan/Bulan<br><br>Toyota Rush Cicilan mulai dari Rp 6 Jtan/Bulan <br><br>Toyota Veloz Cicilan mulai dari Rp 4,9 Jtan/Bulan<br><br>Toyota Innova Cicilan mulai dari Rp 9.8 Jtan/Bulan<br><br><br><br>Dapatkan juga perawatan mobil menyeluruh dengan Free biaya Jasa Servis dan Suku Cadang selama 3 tahun atau 60.000 KM dan Extended Warranty untuk setiap On Time Service untuk tipe mobil tertentu. <br><br>Kamu juga berkesempatan memenangkan 400 Paket Perjalanan ke Eropa, Umroh ke tanah suci, Vietnam & Labuanbajo di program PILIH AUTO2000. Jangan lupa untuk isi formulir di bawah ini untuk dapatkan penawarannya sekarang!<br><br>Tunggu apa lagi? Isi formulir di bawah untuk dapatkan penawarannya sekarang!<br><br><br><br>Urusan Toyota lebih mudah dengan Auto2000 Digiroom<br><br>*Syarat & Ketentuan Berlaku<br><br>*Cicilan terlampir adalah untuk OTR DKI Jakarta dan untuk wilayah lain akan berbeda."
+        }
+    ],
+    "branches": [
         {
             "id":1,
             "image":"https://tsoimageprod.azureedge.net/sys-master-hybrismedia/h5e/h26/8859277459486/T164.png",
             "title": "Auto2000 Ambasador",
-            "address":"Mall Satrio Ambassador, Jl. Prof.Dr. Satrio Kav 8-9, Kuningan, Jakarta Selatan, 1290",
+            "address":"Mall Satrio Ambassador, Jl. Prof.Dr. Satrio Kav 8-9, Kuningan, Jakarta Selatan, 1290"
         },
         {
             "id":2,
             "image":"https://tsoimageprod.azureedge.net/sys-master-hybrismedia/h5e/h26/8859277459486/T164.png",
             "title": "Auto2000 Angkasa",
-            "address": "Jl. Angkasa Raya 1 Blok BB 16, 1, Jakarta Pusat, 10610",
-        },
-      ],
-      "news": [
+            "address": "Jl. Angkasa Raya 1 Blok BB 16, 1, Jakarta Pusat, 10610"
+        }
+    ],
+    "news": [
         {
             "id":1,
             "image":"https://tsoimageprod.azureedge.net/sys-master-hybrismedia/h29/h78/8870778634270/2%20(12).jpeg",
             "title":"Auto2000 Siapkan Hadiah 400 Paket Wisata dan Undian 200 Motor! Begini Cara Mendapatkannya",
-            "description":"Auto2000 sebagai preferred dealer Toyota, kembali memberikan kejutan menarik untuk AutoFamily di 2024 ini melalui program PILIH AUTO2000. Ada total hadiah undian 400 paket liburan, mulai dari Umroh, wisata ke Eropa sampai Trip Asia seperti ke Vietnam dan Labuan Bajo berlaku untuk yang melakukan pembelian mobil.<br><br>Belum berhenti sampai situ, ada juga undian 200 unit motor matik Honda BeAT bagi AutoFamily yang melakukan service berkala di bengkel maupun di THS - Auto2000 Home Service, dan juga perbaikan atau perawatan body mobil di BP Auto2000 (minimal transaksi Rp 3 juta untuk transaksi di BP Auto2000).<br><br>Program ini dihadirkan untuk memudahkan AutoFamily dalam melakukan pembelian mobil, dan turut berkontribusi dalam menggairahkan industri otomotif khususnya roda empat di dalam negeri.",
+            "description":"Auto2000 sebagai preferred dealer Toyota, kembali memberikan kejutan menarik untuk AutoFamily di 2024 ini melalui program PILIH AUTO2000. Ada total hadiah undian 400 paket liburan, mulai dari Umroh, wisata ke Eropa sampai Trip Asia seperti ke Vietnam dan Labuan Bajo berlaku untuk yang melakukan pembelian mobil.<br><br>Belum berhenti sampai situ, ada juga undian 200 unit motor matik Honda BeAT bagi AutoFamily yang melakukan service berkala di bengkel maupun di THS - Auto2000 Home Service, dan juga perbaikan atau perawatan body mobil di BP Auto2000 (minimal transaksi Rp 3 juta untuk transaksi di BP Auto2000).<br><br>Program ini dihadirkan untuk memudahkan AutoFamily dalam melakukan pembelian mobil, dan turut berkontribusi dalam menggairahkan industri otomotif khususnya roda empat di dalam negeri."
         },
         {
             "id":2,
             "image":"https://tsoimageprod.azureedge.net/sys-master-hybrismedia/h9a/h78/8868773330974/all%20new%20vellfire%20hybrid%202024.jpg",
             "title": "All New Vellfire Resmi Hadir dengan Mesin Ramah Lingkungan Canggih",
-            "description":"Toyota All New Vellfire telah resmi meluncur di Indonesia dan segera hadir di Auto2000. Anda bisa segera memilikinya dengan beli online di Auto2000 Digiroom ataupun mengunjungi langsung cabang kami. Luxury MPV ini hadir dalam generasi baru yang memiliki teknologi mesin ramah lingkungan dan canggih.<br><br>Kehadiran Vellfire generasi terbaru ini sekali lagi akan menambah opsi xEV bagi AutoFamily. Kali ini dengan teknologi hybrid pada All New Vellfire HEV di segmen Luxury MPV. Model ini telah mendapatkan full model change yang berdiri di atas all new platform, bersama peningkatan kenyamanan dan advanced features yang signifikan, serta dilengkapi Toyota Hybrid System sebagai pengelola kinerja hybrid engine yang efisien, powerful, dan ultra low emission.<br><br>Mobil premium yang siap memanjakan AutoFamily ini tidak hanya menawarkan kenyamanan dan kecanggihan, tetapi juga memperhatikan aspek lingkungan dengan mesin canggih yang ramah lingkungan.<br><br>Toyota All New Vellfire telah dikenal sebagai mobil MPV premium yang menggabungkan kenyamanan, keamanan, dan kecanggihan dalam satu paket yang elegan. Dengan desain eksterior yang futuristik dan interior yang mewah, mobil ini menjadi pilihan yang sangat diminati bagi Anda yang mementingkan kenyamanan di atas segalanya.",
+            "description":"Toyota All New Vellfire telah resmi meluncur di Indonesia dan segera hadir di Auto2000. Anda bisa segera memilikinya dengan beli online di Auto2000 Digiroom ataupun mengunjungi langsung cabang kami. Luxury MPV ini hadir dalam generasi baru yang memiliki teknologi mesin ramah lingkungan dan canggih.<br><br>Kehadiran Vellfire generasi terbaru ini sekali lagi akan menambah opsi xEV bagi AutoFamily. Kali ini dengan teknologi hybrid pada All New Vellfire HEV di segmen Luxury MPV. Model ini telah mendapatkan full model change yang berdiri di atas all new platform, bersama peningkatan kenyamanan dan advanced features yang signifikan, serta dilengkapi Toyota Hybrid System sebagai pengelola kinerja hybrid engine yang efisien, powerful, dan ultra low emission.<br><br>Mobil premium yang siap memanjakan AutoFamily ini tidak hanya menawarkan kenyamanan dan kecanggihan, tetapi juga memperhatikan aspek lingkungan dengan mesin canggih yang ramah lingkungan.<br><br>Toyota All New Vellfire telah dikenal sebagai mobil MPV premium yang menggabungkan kenyamanan, keamanan, dan kecanggihan dalam satu paket yang elegan. Dengan desain eksterior yang futuristik dan interior yang mewah, mobil ini menjadi pilihan yang sangat diminati bagi Anda yang mementingkan kenyamanan di atas segalanya."
         },
         {
             "id": 3,
             "image":"https://tsoimageprod.azureedge.net/sys-master-hybrismedia/h56/h42/8871555629086/20240318T074937924Zmengemudi20puasa.jpg",
             "title": "7 Tips Berkendara Saat Puasa",
-            "description":"Di bulan suci Ramadhan membuat AutoFamily wajib mengetahui tips berkendara saat puasa. Walaupun sedang berpuasa, tetap saja aktivitas sehari-hari harus dijalankan dengan baik. Mobilitas yang padat sepanjang waktu membuat aktivitas berkendara tetap dilakukan. Namun perlu perhatian khusus di dalam kondisi berpuasa.<br><br>Berpuasa dalam jangka waktu seharian dapat menyebabkan kondisi badan tentu lebih lemas atau mudah hilang fokus. Kondisi ini membuat seseorang bisa lebih cepat merasa lelah serta tidak sabar, khususnya dalam mengemudi mobil.",
+            "description":"Di bulan suci Ramadhan membuat AutoFamily wajib mengetahui tips berkendara saat puasa. Walaupun sedang berpuasa, tetap saja aktivitas sehari-hari harus dijalankan dengan baik. Mobilitas yang padat sepanjang waktu membuat aktivitas berkendara tetap dilakukan. Namun perlu perhatian khusus di dalam kondisi berpuasa.<br><br>Berpuasa dalam jangka waktu seharian dapat menyebabkan kondisi badan tentu lebih lemas atau mudah hilang fokus. Kondisi ini membuat seseorang bisa lebih cepat merasa lelah serta tidak sabar, khususnya dalam mengemudi mobil."
         },
         {
             "id":4,
           "image":"https://tsoimageprod.azureedge.net/sys-master-hybrismedia/hc9/h48/8850959433758/uji-emisi.jpg",
           "title": "Uji Emisi Mobil Toyota yang Harus AutoFamily Ketahui, Cek Di Sini",
-          "description": "Uji emisi menjadi topik yang cukup menarik, tak hanya untuk dibahas namun juga diimplementasi oleh kita semua. Hal ini demi lestarinya alam dan lingkungan sebagai tempat tinggal umat manusia.<br><br>Auto2000 sebagai jaringan bengkel Toyota terbesar di Indonesia siap melayani pengujian emisi berbagai model mobil Toyota. AutoFamily tak perlu khawatir, karena layanan uji emisi di bengkel Auto2000 siap Anda nikmati.",
+          "description": "Uji emisi menjadi topik yang cukup menarik, tak hanya untuk dibahas namun juga diimplementasi oleh kita semua. Hal ini demi lestarinya alam dan lingkungan sebagai tempat tinggal umat manusia.<br><br>Auto2000 sebagai jaringan bengkel Toyota terbesar di Indonesia siap melayani pengujian emisi berbagai model mobil Toyota. AutoFamily tak perlu khawatir, karena layanan uji emisi di bengkel Auto2000 siap Anda nikmati."
         }
-      ]
-  }
+    ]
+}
